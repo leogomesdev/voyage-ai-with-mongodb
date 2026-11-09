@@ -1,0 +1,17 @@
+# Local secrets — never commit the real API key
+.env
+
+# Virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.egg-info/
+.Python
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
